@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="cont">
+    <div class="container">
       <AddTodo />
       <FilterTodos />
       <Todos />
